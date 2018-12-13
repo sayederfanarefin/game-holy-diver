@@ -10,7 +10,6 @@
     <unique-id>14fir0wto7bt4</unique-id>
     <saved-with-version>24400</saved-with-version>
     <used-plugins>
-        <plugin author="Ludei" id="ATPAds" version="1">Cocoon Ads</plugin>
         <plugin author="Scirra" id="Audio" version="1">Audio</plugin>
         <plugin author="Scirra" id="Keyboard" version="1">Keyboard</plugin>
         <plugin author="Scirra" id="Sprite" version="1">Sprite</plugin>
@@ -132,9 +131,6 @@
         <object-type name="Audio" sid="766198070094301">
             <plugin id="Audio" />
         </object-type>
-        <object-type name="CocoonAds" sid="971310756080387">
-            <plugin id="ATPAds" />
-        </object-type>
     </object-folder>
     <families />
     <layout-folder>
@@ -162,24 +158,6 @@
                 <reference-distance>600</reference-distance>
                 <maximum-distance>10000</maximum-distance>
                 <roll-off-factor>1</roll-off-factor>
-            </properties>
-        </global-instance>
-        <global-instance type="CocoonAds" uid="28">
-            <properties>
-                <android></android>
-                <app-id-android>ca-app-pub-7807255418905727~8458144607</app-id-android>
-                <banner-id-android>ca-app-pub-7807255418905727/4658500392</banner-id-android>
-                <banner-size-android>SMART</banner-size-android>
-                <interstitial-id-android></interstitial-id-android>
-                <rewarded-video-id-android></rewarded-video-id-android>
-                <personalized-ads-consent-android>false</personalized-ads-consent-android>
-                <ios></ios>
-                <app-id-ios></app-id-ios>
-                <banner-id-ios></banner-id-ios>
-                <banner-size-ios>SMART</banner-size-ios>
-                <interstitial-id-ios></interstitial-id-ios>
-                <rewarded-video-id-ios></rewarded-video-id-ios>
-                <personalized-ads-consent-ios>false</personalized-ads-consent-ios>
             </properties>
         </global-instance>
     </global-instances>
