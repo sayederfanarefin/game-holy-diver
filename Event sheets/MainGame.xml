@@ -211,6 +211,7 @@
                     <param id="4" name="Volume">-10</param>
                     <param id="2" name="Tag (optional)">&quot;&quot;</param>
                 </action>
+                <action id="8" name="Load banner" sid="190720672893089" type="CocoonAds" />
             </actions>
         </event-block>
         <event-block sid="676010404789804">
@@ -219,6 +220,17 @@
             </conditions>
             <actions>
                 <action id="33" name="Stop all" sid="222791252435807" type="Audio" />
+            </actions>
+        </event-block>
+        <event-block sid="994006653455196">
+            <conditions>
+                <condition id="3" name="On banner loaded" sid="100047109927156" type="CocoonAds" />
+            </conditions>
+            <actions>
+                <action id="6" name="Show banner" sid="455136348382301" type="CocoonAds" />
+                <action id="4" name="Set banner layout" sid="615904162923341" type="CocoonAds">
+                    <param id="0" name="Layout">1</param>
+                </action>
             </actions>
         </event-block>
     </events>
