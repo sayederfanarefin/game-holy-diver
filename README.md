@@ -1,6 +1,6 @@
 # Holy Diver
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![HitCount](http://hits.dwyl.io/sayederfanarefin/game-holy-diver.svg)](http://hits.dwyl.io/sayederfanarefin/game-holy-diver)
 
 A game developed in construct 2 based on the song "Holy Diver" by Dio.
 
